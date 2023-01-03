@@ -1,4 +1,4 @@
-//Project 2 – Querying a Large Relational Database
+//Project â€“ Querying a Large Relational Database
 
 --Get all the details from the person table including email ID, phone number, and phone
 number type
